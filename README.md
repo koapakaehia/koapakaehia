@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/tristan-ehia
+[twitter]: https://twitter.com/FortyTe
 [instagram]: https://www.instagram.com/tristan-ehia
 [linkedin]: https://linkedin.com/in/tristan-ehia
